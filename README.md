@@ -237,43 +237,43 @@ Feel Free to <a href="mailto:saimyahya47@gmail.com?subject=I%20have%20an%20issue
 
 **Main Screen**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/1-main-screen.png?raw=true)
+![Screenshot](https://github.com/Yahya305/AI-Resume-Analyzer/blob/main/screenshots/user/1-main-screen.png?raw=true)
 
 **Resume Analysis**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/2-analysis.jpg?raw=true)
+![Screenshot](https://github.com/Yahya305/AI-Resume-Analyzer/blob/main/screenshots/user/2-analysis.jpg?raw=true)
 
 **Skill Recommendation**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/3-recom.png?raw=true)
+![Screenshot](https://github.com/Yahya305/AI-Resume-Analyzer/blob/main/screenshots/user/3-recom.png?raw=true)
 
 **Course Recommendation**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/4-recom.png?raw=true)
+![Screenshot](https://github.com/Yahya305/AI-Resume-Analyzer/blob/main/screenshots/user/4-recom.png?raw=true)
 
 **Tips and Overall Score**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/5-tipsscore.png?raw=true)
+![Screenshot](https://github.com/Yahya305/AI-Resume-Analyzer/blob/main/screenshots/user/5-tipsscore.png?raw=true)
 
 **Video Recommendation**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/6-recom.png?raw=true)
+![Screenshot](https://github.com/Yahya305/AI-Resume-Analyzer/blob/main/screenshots/user/6-recom.png?raw=true)
 
 ### Feedback
 
 **Feedback Form**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/feedback/1-form.png?raw=true)
+![Screenshot](https://github.com/Yahya305/AI-Resume-Analyzer/blob/main/screenshots/feedback/1-form.png?raw=true)
 
 **Overall Rating Analysis and Comment History**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/feedback/2-analytics.png?raw=true)
+![Screenshot](https://github.com/Yahya305/AI-Resume-Analyzer/blob/main/screenshots/feedback/2-analytics.png?raw=true)
 
 ### Admin
 
 **Login**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/1-main-screen.png?raw=true)
+![Screenshot](https://github.com/Yahya305/AI-Resume-Analyzer/blob/main/screenshots/admin/1-main-screen.png?raw=true)
 
 **User Count and it's data**
 
